@@ -1,0 +1,9 @@
+[submodule "ormnext"]
+	path = ormnext
+	url = https://github.com/saidgadjiev/ormnext
+[submodule "ormnext-support"]
+	path = ormnext-support
+	url = https://github.com/saidgadjiev/ormnext-support
+[submodule "ormnext-cache"]
+	path = ormnext-cache
+	url = https://github.com/saidgadjiev/ormnext-cache
